@@ -1,2 +1,7 @@
-# linux-101-0001
-Filesystem exploration
+# The Linux filesystem
+
+Some introduction
+
+Some video
+
+Some assignment
