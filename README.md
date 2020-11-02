@@ -75,8 +75,79 @@ graph LR
 
 <img src='https://mermaid.ink/svg/eyJjb2RlIjoiZ3JhcGggTFJcblxuICAvIC0tPiB1c3JcbiAgdXNyIC0tPiBsb2NhbFxuICAvIC0tPiBsaWJcbiAgLyAtLT4gbGliNjRcbiAgLyAtLT4gaG9tZVxuICAvIC0tPiBiaW5cbiAgLyAtLT4gc2JpblxuICAvIC0tPiBib290XG4gIGhvbWUgLS0-IGJhc3RpYW5cbiAgaG9tZSAtLT4gbmljb2xhc1xuICBzdWJncmFwaCBiYXN0aWFuJ3MgaG9tZVxuICBiYXN0aWFuIC0tPiB4W1tzb21lX2RhdGEuY3N2XV1cbiAgZW5kXG4gIHN1YmdyYXBoIG5pY29sYXMnIGhvbWVcbiAgbmljb2xhcyAtLT4geVtbb3RoZXJfZGF0YS5jc3ZdXVxuICBlbmRcbiAgXG4gIHN0eWxlIHggZmlsbDp3aGl0ZVxuICBzdHlsZSB5IGZpbGw6d2hpdGUiLCJtZXJtYWlkIjp7InRoZW1lIjoiZGVmYXVsdCIsInRoZW1lVmFyaWFibGVzIjp7ImJhY2tncm91bmQiOiJ3aGl0ZSIsInByaW1hcnlDb2xvciI6IiNFQ0VDRkYiLCJzZWNvbmRhcnlDb2xvciI6IiNmZmZmZGUiLCJ0ZXJ0aWFyeUNvbG9yIjoiaHNsKDgwLCAxMDAlLCA5Ni4yNzQ1MDk4MDM5JSkiLCJwcmltYXJ5Qm9yZGVyQ29sb3IiOiJoc2woMjQwLCA2MCUsIDg2LjI3NDUwOTgwMzklKSIsInNlY29uZGFyeUJvcmRlckNvbG9yIjoiaHNsKDYwLCA2MCUsIDgzLjUyOTQxMTc2NDclKSIsInRlcnRpYXJ5Qm9yZGVyQ29sb3IiOiJoc2woODAsIDYwJSwgODYuMjc0NTA5ODAzOSUpIiwicHJpbWFyeVRleHRDb2xvciI6IiMxMzEzMDAiLCJzZWNvbmRhcnlUZXh0Q29sb3IiOiIjMDAwMDIxIiwidGVydGlhcnlUZXh0Q29sb3IiOiJyZ2IoOS41MDAwMDAwMDAxLCA5LjUwMDAwMDAwMDEsIDkuNTAwMDAwMDAwMSkiLCJsaW5lQ29sb3IiOiIjMzMzMzMzIiwidGV4dENvbG9yIjoiIzMzMyIsIm1haW5Ca2ciOiIjRUNFQ0ZGIiwic2Vjb25kQmtnIjoiI2ZmZmZkZSIsImJvcmRlcjEiOiIjOTM3MERCIiwiYm9yZGVyMiI6IiNhYWFhMzMiLCJhcnJvd2hlYWRDb2xvciI6IiMzMzMzMzMiLCJmb250RmFtaWx5IjoiXCJ0cmVidWNoZXQgbXNcIiwgdmVyZGFuYSwgYXJpYWwiLCJmb250U2l6ZSI6IjE2cHgiLCJsYWJlbEJhY2tncm91bmQiOiIjZThlOGU4Iiwibm9kZUJrZyI6IiNFQ0VDRkYiLCJub2RlQm9yZGVyIjoiIzkzNzBEQiIsImNsdXN0ZXJCa2ciOiIjZmZmZmRlIiwiY2x1c3RlckJvcmRlciI6IiNhYWFhMzMiLCJkZWZhdWx0TGlua0NvbG9yIjoiIzMzMzMzMyIsInRpdGxlQ29sb3IiOiIjMzMzIiwiZWRnZUxhYmVsQmFja2dyb3VuZCI6IiNlOGU4ZTgiLCJhY3RvckJvcmRlciI6ImhzbCgyNTkuNjI2MTY4MjI0MywgNTkuNzc2NTM2MzEyOCUsIDg3LjkwMTk2MDc4NDMlKSIsImFjdG9yQmtnIjoiI0VDRUNGRiIsImFjdG9yVGV4dENvbG9yIjoiYmxhY2siLCJhY3RvckxpbmVDb2xvciI6ImdyZXkiLCJzaWduYWxDb2xvciI6IiMzMzMiLCJzaWduYWxUZXh0Q29sb3IiOiIjMzMzIiwibGFiZWxCb3hCa2dDb2xvciI6IiNFQ0VDRkYiLCJsYWJlbEJveEJvcmRlckNvbG9yIjoiaHNsKDI1OS42MjYxNjgyMjQzLCA1OS43NzY1MzYzMTI4JSwgODcuOTAxOTYwNzg0MyUpIiwibGFiZWxUZXh0Q29sb3IiOiJibGFjayIsImxvb3BUZXh0Q29sb3IiOiJibGFjayIsIm5vdGVCb3JkZXJDb2xvciI6IiNhYWFhMzMiLCJub3RlQmtnQ29sb3IiOiIjZmZmNWFkIiwibm90ZVRleHRDb2xvciI6ImJsYWNrIiwiYWN0aXZhdGlvbkJvcmRlckNvbG9yIjoiIzY2NiIsImFjdGl2YXRpb25Ca2dDb2xvciI6IiNmNGY0ZjQiLCJzZXF1ZW5jZU51bWJlckNvbG9yIjoid2hpdGUiLCJzZWN0aW9uQmtnQ29sb3IiOiJyZ2JhKDEwMiwgMTAyLCAyNTUsIDAuNDkpIiwiYWx0U2VjdGlvbkJrZ0NvbG9yIjoid2hpdGUiLCJzZWN0aW9uQmtnQ29sb3IyIjoiI2ZmZjQwMCIsInRhc2tCb3JkZXJDb2xvciI6IiM1MzRmYmMiLCJ0YXNrQmtnQ29sb3IiOiIjOGE5MGRkIiwidGFza1RleHRMaWdodENvbG9yIjoid2hpdGUiLCJ0YXNrVGV4dENvbG9yIjoid2hpdGUiLCJ0YXNrVGV4dERhcmtDb2xvciI6ImJsYWNrIiwidGFza1RleHRPdXRzaWRlQ29sb3IiOiJibGFjayIsInRhc2tUZXh0Q2xpY2thYmxlQ29sb3IiOiIjMDAzMTYzIiwiYWN0aXZlVGFza0JvcmRlckNvbG9yIjoiIzUzNGZiYyIsImFjdGl2ZVRhc2tCa2dDb2xvciI6IiNiZmM3ZmYiLCJncmlkQ29sb3IiOiJsaWdodGdyZXkiLCJkb25lVGFza0JrZ0NvbG9yIjoibGlnaHRncmV5IiwiZG9uZVRhc2tCb3JkZXJDb2xvciI6ImdyZXkiLCJjcml0Qm9yZGVyQ29sb3IiOiIjZmY4ODg4IiwiY3JpdEJrZ0NvbG9yIjoicmVkIiwidG9kYXlMaW5lQ29sb3IiOiJyZWQiLCJsYWJlbENvbG9yIjoiYmxhY2siLCJlcnJvckJrZ0NvbG9yIjoiIzU1MjIyMiIsImVycm9yVGV4dENvbG9yIjoiIzU1MjIyMiIsImNsYXNzVGV4dCI6IiMxMzEzMDAiLCJmaWxsVHlwZTAiOiIjRUNFQ0ZGIiwiZmlsbFR5cGUxIjoiI2ZmZmZkZSIsImZpbGxUeXBlMiI6ImhzbCgzMDQsIDEwMCUsIDk2LjI3NDUwOTgwMzklKSIsImZpbGxUeXBlMyI6ImhzbCgxMjQsIDEwMCUsIDkzLjUyOTQxMTc2NDclKSIsImZpbGxUeXBlNCI6ImhzbCgxNzYsIDEwMCUsIDk2LjI3NDUwOTgwMzklKSIsImZpbGxUeXBlNSI6ImhzbCgtNCwgMTAwJSwgOTMuNTI5NDExNzY0NyUpIiwiZmlsbFR5cGU2IjoiaHNsKDgsIDEwMCUsIDk2LjI3NDUwOTgwMzklKSIsImZpbGxUeXBlNyI6ImhzbCgxODgsIDEwMCUsIDkzLjUyOTQxMTc2NDclKSJ9fSwidXBkYXRlRWRpdG9yIjpmYWxzZX0'></img>
 
+You can use the `pwd` command in a shell to print your current working directory. Let's try it out:
+
+```
+>pwd
+/home/bs
+```
+
+My current working directory is `/home/bs`. Therefore, when I provide programs with relative paths to the filesystem, they will be interpreted relative to that directory (`/home/bs`). Let's introduce two more programs:
+
+* `cd` - to change my working directory
+* `ls` - to list files and directory
+
+We can change our working directory, depending on where we need to do work. Before we change, here's a tip: if you ever want to reset your working directory and go back to your home, just run `cd` without any arguments. So let's try:
+
+```
+>cd /
+>pwd
+/
+```
+So now our working directory is the root of the file tree. We can now use the `ls` command to list the contents of our working directory:
+
+```
+>ls
+bin  boot  dev  etc  home  lib  lib64  lost+found  media  mnt  opt  proc  root  run  sbin  srv  sys  tmp  usr  var
+```
+
+So there are a bunch of file-like objects in `/`. We can get more detailed output by changing the nature of the `ls` command. We do this by providing options, which is usually done with a minus (`-`) and the short - single character - name of the option, or two minuses (`--`) and the long name. For now, let's keep it simple with a single option:
+
+```
+>ls -l
+total 64
+lrwxrwxrwx.   1 root root    7 Jan 28  2020 bin -> usr/bin
+dr-xr-xr-x.   2 root root 4096 Jan 28  2020 boot
+drwxr-xr-x.   5 root root  360 Nov  2 20:12 dev
+drwxr-xr-x.   1 root root 4096 Nov  2 20:12 etc
+drwxr-xr-x.   1 root root 4096 Nov  2 20:12 home
+lrwxrwxrwx.   1 root root    7 Jan 28  2020 lib -> usr/lib
+lrwxrwxrwx.   1 root root    9 Jan 28  2020 lib64 -> usr/lib64
+drwx------.   2 root root 4096 Oct  8 06:48 lost+found
+drwxr-xr-x.   2 root root 4096 Jan 28  2020 media
+drwxr-xr-x.   2 root root 4096 Jan 28  2020 mnt
+drwxr-xr-x.   2 root root 4096 Jan 28  2020 opt
+dr-xr-xr-x. 525 root root    0 Nov  2 20:12 proc
+dr-xr-x---.   2 root root 4096 Oct  8 06:49 root
+drwxr-xr-x.  13 root root 4096 Oct  8 06:49 run
+lrwxrwxrwx.   1 root root    8 Jan 28  2020 sbin -> usr/sbin
+drwxr-xr-x.   2 root root 4096 Jan 28  2020 srv
+dr-xr-xr-x.  13 root root    0 Oct 15 08:00 sys
+drwxrwxrwt.   2 root root 4096 Oct  8 06:49 tmp
+drwxr-xr-x.  12 root root 4096 Oct  8 06:48 usr
+drwxr-xr-x.   1 root root 4096 Oct  8 06:48 var
+```
+
+You can tell that the minimal output from before has changed into a detailed list. Here's what they mean using the first file as an example:
+`lrwxrwxrwx.   1 root root    7 Jan 28  2020 bin -> usr/bin`
+
+* `lrwxrwxrwx.`   : The first field indicates the file type and permissions. We'll talk about both of those in a minute
+* `1`             : This is the number of times the file is referenced on the computer. Rarely useful to most people
+* `root`          : This is the user who owns the file
+* `root`          : And the group who owns the file
+* `7`             : This is the file size in bytes
+* `Jan 28  2020`  : This is the date the file was last modified
+* `bin -> usr/bin`: And this is the file itself
+
 ## File types
 
+There are a large number of file types present in a typical linux system, but there are only three that are usually relevant to the average user:
+
+* Regular files: `-`
+* Directories: `d`
+* Links: `l`
+
+When you run the `ls` command in Linux, you have the option to print
 
 ## Interacting with the filesystem
 
@@ -90,4 +161,4 @@ graph LR
 * `ln`
 * `rm`
 * `less`
-
+* `touch`
