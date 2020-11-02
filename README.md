@@ -149,16 +149,21 @@ There are a large number of file types present in a typical linux system, but th
 
 When you run the `ls` command in Linux, you have the option to print
 
+## File permissions
+
 ## Interacting with the filesystem
 
 ### Essential commands
 
-* `pwd`
-* `cd`
-* `ls`
-* `mv`
-* `cp`
-* `ln`
-* `rm`
-* `less`
-* `touch`
+* `pwd` - Print the working directory
+* `cd` - Change the working directory
+* `ls` - List files
+* `mv` - Move (rename) files
+* `cp` - Copy files
+* `ln` - Create links to files
+* `rm` - Remove files
+* `less` - Read text files
+* `touch` - Create new/empty files or update mtime
+* `chmod` - Change file permissions
+* `chown` - Change file owner
+* `chgrp` - Change file group
